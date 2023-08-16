@@ -1,1 +1,1 @@
-# AR-Furniture
+# AR Furniture
